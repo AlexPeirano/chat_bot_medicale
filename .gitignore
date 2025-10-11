@@ -1,0 +1,10 @@
+# Fichiers système macOS
+.DS_Store
+
+# Environnements virtuels
+venv/
+.env/
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
